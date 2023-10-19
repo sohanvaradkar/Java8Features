@@ -13,6 +13,6 @@ public class EmployeeService {
     }
 
     public static void main(String[] args) {
-        System.out.println(evaluateTax("nontax"));
+        System.out.println(evaluateTax("tax"));
     }
 }
